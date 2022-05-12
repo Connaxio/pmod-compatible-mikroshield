@@ -551,9 +551,9 @@
 
 
   (no_connect (at 55.88 29.21) (uuid 46ce3a33-2ed0-4c12-bc9f-767f193fb6c8))
-  (no_connect (at 55.88 26.67) (uuid 46ce3a33-2ed0-4c12-bc9f-767f193fb6c8))
-  (no_connect (at 27.94 26.67) (uuid 46ce3a33-2ed0-4c12-bc9f-767f193fb6c8))
-  (no_connect (at 27.94 29.21) (uuid 46ce3a33-2ed0-4c12-bc9f-767f193fb6c8))
+  (no_connect (at 55.88 26.67) (uuid 46ce3a33-2ed0-4c12-bc9f-767f193fb6c9))
+  (no_connect (at 27.94 26.67) (uuid 46ce3a33-2ed0-4c12-bc9f-767f193fb6ca))
+  (no_connect (at 27.94 29.21) (uuid 46ce3a33-2ed0-4c12-bc9f-767f193fb6cb))
 
   (wire (pts (xy 90.17 39.37) (xy 95.25 39.37))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -803,7 +803,7 @@
     (uuid fd5d6bd2-32ee-43d8-bcd1-a36fac35298b)
   )
 
-  (text "Voltage header" (at 105.41 20.32 0)
+  (text "Voltage jumper" (at 105.41 20.32 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 235c5c6f-8b9e-48cd-8208-ff63af85b788)
   )
