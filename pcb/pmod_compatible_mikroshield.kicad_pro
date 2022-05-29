@@ -452,10 +452,10 @@
   "text_variables": {
     "author": "Marc-Antoine Lalonde",
     "company": "Connaxio inc.",
-    "day": "08",
+    "day": "28",
     "month": "05",
-    "rev": "0.3.5",
-    "title": "Pmod D mikroShield",
+    "rev": "0.3.7",
+    "title": "Pmod^{TM} Compatible mikroShield",
     "year": "2022"
   }
 }
