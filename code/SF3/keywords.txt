@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For PmodACL2
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SF3	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+begin	KEYWORD2
+getDeviceID	KEYWORD2
+writePage	KEYWORD2
+subSectorErase	KEYWORD2
+bulkErase	KEYWORD2
+writeSR	KEYWORD2
+readSR	KEYWORD2
+writeEnable	KEYWORD2
+waitForWrite	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+COMMAND_WRITE_ENABLE	LITERAL1
+COMMAND_RANDOM_READ	LITERAL1
+COMMAND_FAST_READ	LITERAL1
+COMMAND_PAGE_PROGRAM	LITERAL1
+COMMAND_SECTOR_ERASE	LITERAL1
+COMMAND_BULK_ERASE	LITERAL1
+COMMAND_READ_STATUSREG	LITERAL1
+COMMAND_READ_ID	LITERAL1
+COMMAND_WRITE_STATUSREG	LITERAL1
+COMMAND_READ_FLAG_STATUS	LITERAL1
+COMMAND_SUB_SECTOR_ERASE	LITERAL1
