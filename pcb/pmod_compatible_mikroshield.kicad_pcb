@@ -38,7 +38,6 @@
     )
     (pad_to_mask_clearance 0.0508)
     (solder_mask_min_width 0.0508)
-    (pad_to_paste_clearance_ratio -0.05)
     (aux_axis_origin 127 127)
     (grid_origin 127 127)
     (pcbplotparams
@@ -47,7 +46,7 @@
       (usegerberextensions false)
       (usegerberattributes true)
       (usegerberadvancedattributes true)
-      (creategerberjobfile true)
+      (creategerberjobfile false)
       (svguseinch false)
       (svgprecision 6)
       (excludeedgelayer true)
@@ -78,9 +77,9 @@
 
   (property "author" "Marc-Antoine Lalonde")
   (property "company" "Connaxio inc.")
-  (property "day" "28")
-  (property "month" "05")
-  (property "rev" "0.3.7")
+  (property "day" "06")
+  (property "month" "10")
+  (property "rev" "1.0.0")
   (property "title" "Pmod^{TM} Compatible mikroShield")
   (property "year" "2022")
 

@@ -362,7 +362,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -462,9 +462,9 @@
   "text_variables": {
     "author": "Marc-Antoine Lalonde",
     "company": "Connaxio inc.",
-    "day": "28",
-    "month": "05",
-    "rev": "0.3.7",
+    "day": "06",
+    "month": "10",
+    "rev": "1.0.0",
     "title": "Pmod^{TM} Compatible mikroShield",
     "year": "2022"
   }
